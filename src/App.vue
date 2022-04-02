@@ -24,7 +24,7 @@ let avatar = 'avatar.jpg'
 let name = 'Ngo Quoc Dat'
 let excerpt = 'The only way to learn a new programming language is by writing programs in it.'
 let socials = [
-  { name: 'Facebook', url: 'https://www.facebook.com/ngoquocdatt', icon: 'fa-facebook-f' },
+  { name: 'Facebook', url: 'https://www.facebook.com/datlechinvn', icon: 'fa-facebook-f' },
   { name: 'Twitter', url: 'https://twitter.com/datlechin', icon: 'fa-twitter' },
   { name: 'Instagram', url: 'https://www.instagram.com/datlechin', icon: 'fa-instagram' },
   { name: 'Linkedin', url: 'https://www.linkedin.com/in/datlechin', icon: 'fa-linkedin-in' },
